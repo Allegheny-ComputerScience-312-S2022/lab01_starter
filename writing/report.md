@@ -2,10 +2,10 @@
 ### Researching and Reporting on Database Tools
 
 #### Name
-Solutions
+Add Your Name Here
 
 #### GitHub Account Name
-Solutions
+Add Your Account Name Here
 
 #### Submission Date
 28 Feb 2022
@@ -15,16 +15,16 @@ Solutions
 #### 1.
 
 Tool name:
- - Solutions
+ - TODO
 
 Reference or article citation:
- - Solutions
+ - TODO
 
 What this tool does in terms of its application:
- - Solutions
+ - TODO
 
 Who are the users of this tool?
- - Solutions
+ - TODO
 
 ---
 
@@ -33,16 +33,16 @@ Who are the users of this tool?
 #### 2.
 
 Tool name:
- - Solutions
+ - TODO
 
 Reference or article citation:
- - Solutions
+ - TODO
 
 What this tool does in terms of its application:
- - Solutions
+ - TODO
 
 Who are the users of this tool?
- - Solutions
+ - TODO
 
 ---
 
@@ -51,16 +51,16 @@ Who are the users of this tool?
 #### 3.
 
 Tool name:
- - Solutions
+ - TODO
 
 Reference or article citation:
- - Solutions
+ - TODO
 
 What this tool does in terms of its application:
- - Solutions
+ - TODO
 
 Who are the users of this tool?
- - Solutions
+ - TODO
 
 ---
 
@@ -69,16 +69,16 @@ Who are the users of this tool?
 #### 4.
 
 Tool name:
- - Solutions
+ - TODO
 
 Reference or article citation:
- - Solutions
+ - TODO
 
 What this tool does in terms of its application:
- - Solutions
+ - TODO
 
 Who are the users of this tool?
- - Solutions
+ - TODO
 
 ---
 
@@ -87,16 +87,16 @@ Who are the users of this tool?
 #### 5.
 
 Tool name:
- - Solutions
+ - TODO
 
 Reference or article citation:
- - Solutions
+ - TODO
 
 What this tool does in terms of its application:
- - Solutions
+ - TODO
 
 Who are the users of this tool?
- - Solutions
+ - TODO
 
 ---
 
@@ -105,16 +105,16 @@ Who are the users of this tool?
 #### 6.
 
 Tool name:
- - Solutions
+ - TODO
 
 Reference or article citation:
- - Solutions
+ - TODO
 
 What this tool does in terms of its application:
- - Solutions
+ - TODO
 
 Who are the users of this tool?
- - Solutions
+ - TODO
 
 ---
 
@@ -123,16 +123,16 @@ Who are the users of this tool?
 #### 7.
 
 Tool name:
- - Solutions
+ - TODO
 
 Reference or article citation:
- - Solutions
+ - TODO
 
 What this tool does in terms of its application:
- - Solutions
+ - TODO
 
 Who are the users of this tool?
- - Solutions
+ - TODO
 
 ---
 
@@ -141,16 +141,16 @@ Who are the users of this tool?
 #### 8.
 
 Tool name:
- - Solutions
+ - TODO
 
 Reference or article citation:
- - Solutions
+ - TODO
 
 What this tool does in terms of its application:
- - Solutions
+ - TODO
 
 Who are the users of this tool?
- - Solutions
+ - TODO
 
 ---
 
@@ -159,16 +159,16 @@ Who are the users of this tool?
 #### 9.
 
 Tool name:
- - Solutions
+ - TODO
 
 Reference or article citation:
- - Solutions
+ - TODO
 
 What this tool does in terms of its application:
- - Solutions
+ - TODO
 
 Who are the users of this tool?
- - Solutions
+ - TODO
 
 ---
 
@@ -177,16 +177,16 @@ Who are the users of this tool?
 #### 10.
 
 Tool name:
- - Solutions
+ - TODO
 
 Reference or article citation:
- - Solutions
+ - TODO
 
 What this tool does in terms of its application:
- - Solutions
+ - TODO
 
 Who are the users of this tool?
- - Solutions
+ - TODO
 
 ---
 
